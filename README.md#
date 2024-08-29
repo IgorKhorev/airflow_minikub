@@ -11,7 +11,7 @@
 -    Добавьте репозиторий Apache Airflow.
 
 -   Создайте пространство имен для Airflow.
-![Пространство имён airflow](https://github.com/IgorKhorev/airflow_minikub/blob/main/Logs.PNG)
+![Пространство имён airflow](https://github.com/IgorKhorev/airflow_minikub/blob/main/Пространство airflow.jpg)
 
 -    Используем Helm для развертывания Airflow с базовыми настройками.
 
