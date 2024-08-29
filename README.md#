@@ -4,6 +4,7 @@
 Описание задания:
 
 -    Запустите Minikube с достаточными ресурсами.
+![Запуск миникуба](https://github.com/IgorKhorev/airflow_minikub/blob/main/Minikube.PNG)
 
 -    Установите Helm, если он еще не установлен.
 
