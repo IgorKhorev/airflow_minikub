@@ -61,11 +61,11 @@ python_task = PythonOperator(
    dag = dag,
 )
 #
-#t1 = EmptyOperator(
-#task_id='dummy_task',
-#retries=3,
-#dag=dag,
-#)
+t1 = EmptyOperator(
+task_id='dummy_task',
+retries=3,
+dag=dag,
+)
 #
 
-#t1 >> python_task
+t1 >> python_task
