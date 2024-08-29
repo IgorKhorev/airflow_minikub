@@ -18,5 +18,3 @@
 -    Создайте DAG и подложите его в git (как это показывалось в лекционном материале).
 
 -    В DAG создайте 2 любых оператора. Запуск DAG — ежедневный в 12:45 по Москве.
-
-https://github.com/IgorKhorev/airflow_minikub/tree/main/Logs.PNG
