@@ -19,5 +19,4 @@
 
 -    В DAG создайте 2 любых оператора. Запуск DAG — ежедневный в 12:45 по Москве.
 
-![Логи DAG](https://github.com/IgorKhorev/airflow_minikub/edit/main/Logs.PNG)
-![Пример изображения](/Downloads/Logs.PNG)
+![Пример изображения](Logs.PNG)
